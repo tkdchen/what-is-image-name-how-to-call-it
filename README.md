@@ -21,3 +21,4 @@ When say "image", which does it mean, the image name or the full image name.
 Links:
 
 - https://kubernetes.io/docs/concepts/containers/images/#image-names
+- https://github.com/package-url/purl-spec#purl

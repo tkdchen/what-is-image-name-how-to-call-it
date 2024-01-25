@@ -18,6 +18,8 @@ When say "image", which does it mean, the image name or the full image name.
 
 **Recommendation**: ?
 
+It would be good separate the context, talking about images generally or specific to image registries.
+
 Links:
 
 - https://kubernetes.io/docs/concepts/containers/images/#image-names
